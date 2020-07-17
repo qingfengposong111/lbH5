@@ -18,7 +18,7 @@
     "es6-promise": "^4.2.5",
     "fastclick": "^1.0.6",
     "formidable": "^1.2.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "mescroll": "0.0.3",
     "mescroll.js": "^1.4.0",
     "qiniu": "^7.2.1",
